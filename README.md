@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 Hey! I'm Robert, and I'm a current Computer Science student at The University of Texas at Austin. I currently have an interest in Backend Development & Distributed Systems, and am actively looking for intern roles in the immediate future in these areas. 
 
-At the current moment, I'm learning more about Distributed Systems by reading Designing Data Intensive Applications and taking a class covering Cloud Computing that largely revolves around working with data that doesn't fit in memory and machines that communicate via the network.
+At the current moment, I'm learning more about Distributed Systems by reading Designing Data Intensive Applications and taking a class covering Cloud Computing. In this class, the work largely revolves around working with data that doesn't fit in memory as well as machines that communicate via the network.
