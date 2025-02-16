@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![](https://iplogger.co/15GaX4)
+![](https://komarev.com/ghpvc/?username=tezock&color=green)
 
 -->
-![](https://komarev.com/ghpvc/?username=tezock&color=green)
 
 Hey! I'm Robert, and I'm a current Computer Science student at The University of Texas at Austin. I currently have an interest in Backend Development & Distributed Systems, and am actively looking for intern roles in the immediate future in these areas. 
 
