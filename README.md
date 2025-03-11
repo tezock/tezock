@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 I'm Robert, and I'm a Computer Science Student at The University of Texas at Austin.
 
-At the current moment, I'm learning more about Distributed Systems by reading Designing Data Intensive Applications. [See my current progress & notes/learnings here!](https://docs.google.com/document/d/1h3aq_Ic3waq1mlfTA0s4wpD8YLDrzcP3Eg1sz0bkeJA/edit?usp=sharing)
+At the current moment, I'm learning more about Distributed Systems by reading Designing Data Intensive Applications. [See my current progress here!](https://docs.google.com/document/d/1h3aq_Ic3waq1mlfTA0s4wpD8YLDrzcP3Eg1sz0bkeJA/edit?usp=sharing)
 
 > "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
