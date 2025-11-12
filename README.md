@@ -28,3 +28,6 @@ I also have some notes on Designing Data Intensive Applications [here](https://d
 Overall, I'm interested in distributed systems, databases, and networks.
 
 > "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
+
+![Leetcode](https://leetcode-badge-sage.vercel.app/badge/idecodemc?bgColor=fff)
+
