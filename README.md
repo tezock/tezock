@@ -25,7 +25,7 @@ At the current moment, I'm taking a deeper dive into Computer Networks as a whol
 
 I also have some notes on Designing Data Intensive Applications [here](https://docs.google.com/document/d/1h3aq_Ic3waq1mlfTA0s4wpD8YLDrzcP3Eg1sz0bkeJA/edit?usp=sharing)!
 
-Overall, I'm interested in distributed systems, databases, and networks.
+Overall, I'm interested in distributed systems(!!), cloud-native applications, databases, and networks.
 
 > "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
 
