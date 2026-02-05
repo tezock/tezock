@@ -23,7 +23,7 @@ I'm Robert, and I'm a Computer Science Student at The University of Texas at Aus
 
 At the current moment, I'm taking a deeper dive into Databases by reading Database System Concepts, as well as prodding around cloud-native computing :)
 
-I also have some notes on Designing Data Intensive Applications [here](https://docs.google.com/document/d/1h3aq_Ic3waq1mlfTA0s4wpD8YLDrzcP3Eg1sz0bkeJA/edit?usp=sharing)!
+I also have some notes on Designing Data Intensive Applications [here](https://docs.google.com/document/d/1h3aq_Ic3waq1mlfTA0s4wpD8YLDrzcP3Eg1sz0bkeJA/edit?usp=sharing), as well as some notes I've taken on Apache Flink [here](https://docs.google.com/document/d/19m60TZqL6C2XbMK7ww0ixQ-5nwLcqYrOXZLghJ2S6Yo/edit?tab=t.0). Feel free to take a look!
 
 Overall, I'm interested in distributed systems(!!), cloud-native applications, databases, and networks.
 
