@@ -29,6 +29,9 @@ I also like taking notes on books / systems / things I'm interested in! Feel fre
 | :--- | :--- | :--- |
 | Designing Data-Intensive Applications | [Notes](https://docs.google.com/document/d/1h3aq_Ic3waq1mlfTA0s4wpD8YLDrzcP3Eg1sz0bkeJA/edit?usp=sharing) | Done |
 | Apache Flink | [Notes](https://docs.google.com/document/d/19m60TZqL6C2XbMK7ww0ixQ-5nwLcqYrOXZLghJ2S6Yo/edit?tab=t.0) | Done |
+| Kubernetes | [Notes](https://docs.google.com/document/d/1stK2p2Ox00LJJ5NB3Oy3AWYbiBhRZZMIe75w7PbbZNU/edit?tab=t.0#heading=h.ozwya2vqobd) | Done |
+| Docker | [Notes](https://docs.google.com/document/d/18zA6QJTwTySCvQJtmwqXGTZnkegLqSRpx3pyp0mhnUs/edit?tab=t.0#heading=h.gam5tawsp806) | Done |
+| Distributed Consensus | [Notes](https://docs.google.com/document/d/1lE8Y69XhmNcBQUliflvhDUkC-k_nXZeBcFSam12vefQ/edit?tab=t.0#heading=h.wzn228q8mnra) | Done |
 | Database Internals | [Notes](https://docs.google.com/document/d/1qs4Lss9FKa-kPVM2fAt3w-WWqslonbpmmquHOM_IFwM/edit?tab=t.0) | WIP |
 
 Planning to work on a more formal presentation for a 'bookshelf of notes' at some pont :p
