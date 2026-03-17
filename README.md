@@ -33,16 +33,7 @@ I also like taking notes on books / systems / things I'm interested in! Feel fre
 | Docker | [Notes](https://docs.google.com/document/d/18zA6QJTwTySCvQJtmwqXGTZnkegLqSRpx3pyp0mhnUs/edit?tab=t.0#heading=h.gam5tawsp806) | Done |
 | Distributed Consensus | [Notes](https://docs.google.com/document/d/1lE8Y69XhmNcBQUliflvhDUkC-k_nXZeBcFSam12vefQ/edit?tab=t.0#heading=h.wzn228q8mnra) | Done |
 | Database Internals | [Notes](https://docs.google.com/document/d/1qs4Lss9FKa-kPVM2fAt3w-WWqslonbpmmquHOM_IFwM/edit?tab=t.0) | WIP |
-| Computer Networking | NA | Soon |
-| DNS | NA | Soon |
-
-
-
-Planning to work on a more formal presentation for a 'bookshelf of notes' at some pont :p
 
 Overall, I'm interested in distributed systems(!!), cloud-native applications, databases, and networks.
 
 > "Excellence is not a destination; it is a continuous journey that never ends." - Brian Tracy
-
-![Leetcode](https://leetcode-badge-sage.vercel.app/badge/idecodemc?bgColor=fff)
-
